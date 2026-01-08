@@ -3,7 +3,7 @@
 <!-- Source: Project 1 (Networking Interview Presentation) :contentReference[oaicite:0]{index=0} -->
 
 👉 **Full Lab Report with screenshots and detailed steps:**  
-[Click here to view the complete project documentation](https://github.com/Pelumi-Johnson/Creating-a-Site-to-Site-VPN-on-AWS/blob/main/Name_%20Pelumi%20Johnson_University%20of%20Maryland%20Global%20Center.pdf)
+[Click here to view the complete project documentation](https://github.com/Pelumi-Johnson/Networking-Fundamentals-Job-Interview-Preparation-Project/blob/main/Project%201%20(2).pdf)
 
 **Name:** Pelumi Johnson  
 **Focus:** Networking Fundamentals (Interview-Style Technical Review)
